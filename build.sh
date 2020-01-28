@@ -1,0 +1,1 @@
+g++ -I/usr/local/include/opencv -L/opt -lopencv -L/usr/local/include/opencv4 -I/usr/local/lib/ -g -o binary  Master.cpp -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_ml -lopencv_video -lopencv_imgcodecs
